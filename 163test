@@ -1,2 +1,2 @@
-FROM hub.c.163.com/netease_comb/debian:7.9
+FROM gcr.io/google_containers/kube-controller-manager-amd64:v1.8.4
 MAINTAINER netease 
